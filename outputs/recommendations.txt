@@ -1,0 +1,39 @@
+AI Recommendation Engine Results
+==================================
+
+User interests:
+- Machine Learning
+- Data Science
+- Python
+- Web Development
+- React
+- Java script
+- AI
+- Automation
+- chatbot
+
+Recommended courses:
+1. Web Development with Django (23.34% match)
+   Category: Web Development
+   Difficulty: Intermediate
+   Why: Build backend web applications using Django models views and templates.
+
+2. Machine Learning Fundamentals (22.96% match)
+   Category: Artificial Intelligence
+   Difficulty: Beginner
+   Why: Understand the basic ideas behind machine learning models and predictions.
+
+3. Automation with Python (20.89% match)
+   Category: Automation
+   Difficulty: Beginner
+   Why: Automate daily tasks using Python scripts and simple workflow logic.
+
+4. Python for Data Analysis (19.93% match)
+   Category: Data Science
+   Difficulty: Intermediate
+   Why: Learn how to clean analyze and explore real datasets using Python libraries.
+
+5. Data Visualization with Python (14.32% match)
+   Category: Data Science
+   Difficulty: Beginner
+   Why: Create meaningful charts and explain data through clean visual storytelling.

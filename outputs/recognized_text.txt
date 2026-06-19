@@ -1,0 +1,6 @@
+AI Image or Text Recognition Result
+=============================================
+
+DecodeLabs AI Project 4
+Image or Text Recognition
+Confidence threshold: 80 percent
